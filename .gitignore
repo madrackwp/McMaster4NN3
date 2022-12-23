@@ -3,3 +3,5 @@ arrays/
 data/
 lfw-deepfunneled/
 models/
+test images/
+/test.py
