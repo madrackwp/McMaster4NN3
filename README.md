@@ -1,4 +1,3 @@
-"# McMaster4NN3" 
 github link: https://github.com/madrackwp/McMaster4NN3
 
 Initial folder directory:
